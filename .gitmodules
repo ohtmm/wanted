@@ -1,0 +1,3 @@
+[submodule "wanted"]
+	path = wanted
+	url = https://github.com/ohtmm/wanted.git
