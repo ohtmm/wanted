@@ -1,3 +1,6 @@
 [submodule "wanted"]
 	path = wanted
 	url = https://github.com/ohtmm/wanted.git
+[submodule "wanted-pre-onboarding-challenge-fe-1"]
+	path = wanted-pre-onboarding-challenge-fe-1
+	url = https://github.com/ohtmm/wanted-pre-onboarding-challenge-fe-1.git
